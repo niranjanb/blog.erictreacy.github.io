@@ -7,7 +7,7 @@ I often find myself referencing my code books for help from time-to-time. A lot 
 
 I have also placed some other books for fun.
 
-Enjoy
+Enjoy!
 
 * book 1
 * book 2
