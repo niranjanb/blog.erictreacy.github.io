@@ -3,10 +3,7 @@ title: About
 layout: about
 ---
 
-![erictreacy (1).png](/uploads/erictreacy%20(1).png)
-
-
-### Hello! 
+# Hello! 
 
 
 My name is Eric & I am an Engineer with an aptitude & affinity for bench science, lab design & software.
@@ -21,7 +18,7 @@ When I actually think to do it, I also enjoy taking [photos](https://erictreacy.
 I seldom [tweet](https://twitter.com/erictreacy), but it's the perfect way to get a hold of me.
 
 
-### About this site: 
+# About this site: 
 
 
 This is a custom Jekyll (Ruby) site proudly hosted on GitHub. 

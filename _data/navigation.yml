@@ -1,9 +1,11 @@
 - title: About
   url: /me
+  
+- title: Library
+  url: /library
+  
+- title: Portfolio  
+  url: /portfolio
+  
 
-- title: GitHub
-  url: https://github.com/erictreacy
-
-- title: Twitter
-  url: https://twitter.com/erictreacy
  
