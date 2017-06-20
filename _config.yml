@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 permalink: "/blog/:title"
-name: Writing
+name: Niranjan's Blog
 description: A blog on Jekyll and GitHub Pages
 google_verification: 
 include:
