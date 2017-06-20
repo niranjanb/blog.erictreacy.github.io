@@ -1,5 +1,9 @@
 ---
 published: true
+date: 2017-06-20 
+Field name: 
+layout: post
+crosspost_to_medium: false
 ---
 Dear Master&#39;s student,
 
