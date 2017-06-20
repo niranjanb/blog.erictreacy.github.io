@@ -9,7 +9,7 @@ Dear Master&#39;s student,
 
 This post includes my thoughts on setting up good expectations for your master&#39;s degree in computer science.
 
-**Why am I writing this post?**
+###Why am I writing this post?###
 
 I have been teaching at Stony Brook the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself, I understand that there are strong realistic needs and financial circumstances that pretty much force these choices. I also see the bad effects of these choices.
 
