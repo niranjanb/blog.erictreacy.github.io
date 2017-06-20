@@ -9,7 +9,7 @@ Dear Master&#39;s student,
 
 This post includes my thoughts on setting up good expectations for your master&#39;s degree in computer science.
 
-###Why am I writing this post?###
+### Why am I writing this post? ###
 
 I have been teaching at Stony Brook the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself, I understand that there are strong realistic needs and financial circumstances that pretty much force these choices. I also see the bad effects of these choices.
 
@@ -18,7 +18,7 @@ I have been teaching at Stony Brook the last two years. I noticed that a sizeabl
 
 I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect, I wished I had paid attention to my long term goals more.
 
-**Caveats:**
+### Caveats ###
 
 1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and/or useful, insightful, and out-of-touch.
 2. This post is aimed at international students mostly but some of this might apply to domestic students as well.
@@ -28,11 +28,11 @@ I have been through a not so great Master&#39;s experience myself because of sim
 
 If there is one thing that I want this post to do, it is to get you, a prospective/current MS student at Stony Brook, to make a plan for your Master&#39;s overall. Set some goals for what you want to learn from each course that you take. Set good expectations and try your best to meet them.
 
-**Setting up expectations for your Master&#39;s degree**
+### Setting up expectations for your Master&#39;s degree ###
 
 A Master&#39;s program in a top university with many wonderful computer scientists and teachers is an incredible opportunity.  Aim big. Set yourselves a high standard for learning excellence. Note this is different from setting a goal of 4.0 GPA.
 
-**1. It is not only what you learn now that matters. Learning how to learn matters much more.**
+#### 1. It is not only what you learn now that matters. Learning how to learn matters much more. ####
 
 You will learn many CS concepts, algorithms, techniques, computational ways to solve problems, design aspects etc. But what you learn now will most likely become outdated in a couple of years. CS is vast and every area within it reinvents itself every few years. To succeed, you, of course, will need the basic foundations but more importantly you will need to develop skills, and confidence that will let you learn new things independently. _You should train yourself on how to learn._
 
