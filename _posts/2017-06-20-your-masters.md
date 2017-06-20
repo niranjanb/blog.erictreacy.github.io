@@ -12,7 +12,7 @@ I have been teaching at Stony Brook the last two years. I noticed that a sizeabl
 1. Pressure -- Under pressure students seem to cut corners, in many cases leading to academic dishonesty. I dealt with a particularly large sample of cases in my class this past semester. Many of these cases are students who are actually well motivated, capable students, who seem genuinely interested in learning and developing themselves.
 2. Long term goals -- Many are not setting themselves up for longer term success. Despite working hard and obtaining technical skills, some don&#39;t seem to believe that they are going to be strong, impactful contributors wherever they go.
 
-I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect, I wished I had paid attention to my long term goals more. So here is my
+I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect, I wished I had paid attention to my long term goals more.
 
 **Caveats:**
 
@@ -20,6 +20,7 @@ I have been through a not so great Master&#39;s experience myself because of sim
 2. This post is aimed at international students mostly but some of this might apply to domestic students as well.
 3. These are my personal opinions and suggestions and should not be taken as official policy or guidance from the department.
 4. This is a not a detailed how-to-guide by any means. It is vague. The intention is to prod you to think.
+5. I plan to do a follow up with more inputs from a diverse group of people, including other faculty and grad students.
 
 If there is one thing that I want this post to do, it is to get you, a prospective/current MS student at Stony Brook, to make a plan for your Master&#39;s overall. Set some goals for what you want to learn from each course that you take. Set good expectations and try your best to meet them.
 
