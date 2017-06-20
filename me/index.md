@@ -5,20 +5,8 @@ layout: about
 
 # Hello! 
 
-
-My name is Eric & I am an Engineer with an aptitude & affinity for bench science, lab design & software.
-
-                    
-I spend my time being a husband to [@jkmogan](https://www.instagram.com/jkmogan), father, runner, climber, skier, scientist & [writing code](https://github.com/erictreacy). 
-
-
-When I actually think to do it, I also enjoy taking [photos](https://erictreacy.me/photos).
-
-                
-I seldom [tweet](https://twitter.com/erictreacy), but it's the perfect way to get a hold of me.
-
+I am <a href="http://www3.cs.stonybrook.edu/~niranjan/index.html">Niranjan Balasubramanian</a>. I work on building Natural language processing systems. I am a member of the Computer Science department in Stony Brook University.
 
 # About this site: 
-
 
 This is a custom Jekyll (Ruby) site proudly hosted on GitHub. 
