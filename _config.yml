@@ -23,5 +23,6 @@ sass:
 markdown: kramdown
 kramdown:
   input: GFM
+  parse_block_html: true
   hard_wrap: false
 highlighter: rouge
