@@ -5,13 +5,13 @@ Field name:
 layout: post
 crosspost_to_medium: false
 ---
-Dear Master&#39;s student,
+## Dear Master&#39;s student, ##
 
-This post includes my thoughts on setting up good expectations for your master&#39;s degree in computer science.
+This post includes my thoughts on setting up good expectations for your Master&#39;s degree in computer science.
 
 ## Why am I writing this post? ##
 
-I have been teaching at Stony Brook the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself, I understand that there are strong realistic needs and financial circumstances that pretty much force these choices. I also see the bad effects of these choices.
+I have been teaching at <a href="https://www.cs.stonybrook.edu/">Stony Brook Computer Science Department</a> for the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself, I understand that there are strong realistic needs and financial circumstances that pretty much force these choices. I also see the bad effects of these choices.
 
 1. Pressure -- Under pressure students seem to cut corners, in many cases leading to academic dishonesty. I dealt with a particularly large sample of cases in my class this past semester. Many of these cases are students who are actually well motivated, capable students, who seem genuinely interested in learning and developing themselves.
 2. Long term goals -- Many are not setting themselves up for longer term success. Despite working hard and obtaining technical skills, some don&#39;t seem to believe that they are going to be strong, impactful contributors wherever they go.
@@ -24,7 +24,7 @@ I have been through a not so great Master&#39;s experience myself because of sim
 2. This post is aimed at international students mostly but some of this might apply to domestic students as well.
 3. These are my personal opinions and suggestions and should not be taken as official policy or guidance from the department.
 4. This is a not a detailed how-to-guide by any means. It is vague. The intention is to prod you to think.
-5. I plan to do a follow up with more inputs from a diverse group of people, including other faculty and grad students.
+5. I am relatively new at teaching myself. My thoughts are based on my limited view over the last two years. I plan to do a follow up with more inputs from a diverse group of people, including other faculty and grad students.
 
 If there is one thing that I want this post to do, it is to get you, a prospective/current MS student at Stony Brook, to make a plan for your Master&#39;s overall. Set some goals for what you want to learn from each course that you take. Set good expectations and try your best to meet them.
 
