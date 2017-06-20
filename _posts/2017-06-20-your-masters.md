@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Dear Master&#39;s student,
 
