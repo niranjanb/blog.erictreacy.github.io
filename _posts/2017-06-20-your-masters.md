@@ -13,7 +13,7 @@ This is a dump of my thoughts on setting up good expectations for your Master&#3
 
 I have been teaching in the <a href="https://www.cs.stonybrook.edu/">Computer Science Department</a> at Stony Brook University for the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself, I understand that there are strong realistic needs and financial circumstances that pretty much force these choices. I also see the bad effects of these choices.
 
-1. Pressure -- Under pressure students seem to cut corners, in many cases leading to academic dishonesty. I dealt with a particularly large sample of cases in my class this past semester. Many of these cases are students who are actually well motivated, capable students, who seem genuinely interested in learning and developing themselves.
+1. Pressure -- Under pressure students seem to cut corners, in some cases even going as far as academic dishonesty. Many of these cases are students who are actually well motivated, capable, who seem genuinely interested in learning and developing themselves.
 2. Long term goals -- Many are not setting themselves up for longer term success. Despite working hard and obtaining technical skills, some don&#39;t seem to believe that they are going to be strong, impactful contributors wherever they go.
 
 I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect, I wished I had paid attention to my long term goals more.
