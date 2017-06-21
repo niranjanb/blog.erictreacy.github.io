@@ -72,4 +72,4 @@ A Master&#39;s degree, especially in three semesters, can be quite tight in term
 
 Whatever stage of life you are in, the Master&#39;s is a reset button. It helps you launch on a path. Prepare yourself for an impactful long career, rather than for the first job you may want to land with a big name company.
 
-### In short, be intentional: Set your own goals for your master&#39;s program and try your best to meet them. ###
+### In short, be intentional: Set your own goals for your Master&#39;s program and try your best to meet them. ###
