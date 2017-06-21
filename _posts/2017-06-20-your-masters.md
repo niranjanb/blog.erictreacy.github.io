@@ -7,7 +7,7 @@ crosspost_to_medium: false
 ---
 ## Dear Master&#39;s student, ##
 
-This post includes my thoughts on setting up good expectations for your Master&#39;s degree in computer science.
+This is a dump of my thoughts on setting up good expectations for your Master&#39;s degree in computer science.
 
 ## Why am I writing this post? ##
 
