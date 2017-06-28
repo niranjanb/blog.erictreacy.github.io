@@ -11,12 +11,12 @@ This is a dump of my thoughts on setting up good expectations for your Master&#3
 
 ## Why am I writing this post? ##
 
-I have been teaching in the <a href="https://www.cs.stonybrook.edu/">Computer Science Department</a> at Stony Brook University for the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself I know firsthand some of the financial and time pressures behind these choices. I also, however, see the bad effects of these choices.
+I have been teaching in the <a href="https://www.cs.stonybrook.edu/">Computer Science Department</a> at Stony Brook University for the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself I know firsthand some of the financial and time pressures behind these choices. However, I also see the bad effects of these choices.
 
 1. Pressure -- Under pressure students seem to cut corners, in some cases even going as far as academic dishonesty. In many cases this is happens even though the students seem well motivated, technically strong, and appear genuinely interested in learning and developing themselves.
 2. Long term goals -- Many are not setting themselves up for longer term success. Despite working hard and obtaining technical skills, some don&#39;t seem to believe that they are going to be strong, impactful contributors wherever they go. Somehow they seem to limit their ambitions based on their current levels of knowledge and skill sets.
 
-I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect, I wished I had paid attention to my long term goals more.
+I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect I wished I had paid attention to my long term goals more.
 
 ### Caveats ###
 
