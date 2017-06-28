@@ -11,18 +11,18 @@ This is a dump of my thoughts on setting up good expectations for your Master&#3
 
 ## Why am I writing this post? ##
 
-I have been teaching in the <a href="https://www.cs.stonybrook.edu/">Computer Science Department</a> at Stony Brook University for the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself, I understand that there are strong realistic needs and financial circumstances that pretty much force these choices. I also see the bad effects of these choices.
+I have been teaching in the <a href="https://www.cs.stonybrook.edu/">Computer Science Department</a> at Stony Brook University for the last two years. I noticed that a sizeable fraction of the  international students appear to be under high levels of undue pressure. Some optimize their program too much for short term goals (e.g., landing an internship, graduating within three semesters etc). Having been through this process myself I know firsthand some of the financial and time pressures behind these choices. I also, however, see the bad effects of these choices.
 
-1. Pressure -- Under pressure students seem to cut corners, in some cases even going as far as academic dishonesty. In many cases, the students seem well motivated, technically strong, and appear genuinely interested in learning and developing themselves.
+1. Pressure -- Under pressure students seem to cut corners, in some cases even going as far as academic dishonesty. In many cases this is happens even though the students seem well motivated, technically strong, and appear genuinely interested in learning and developing themselves.
 2. Long term goals -- Many are not setting themselves up for longer term success. Despite working hard and obtaining technical skills, some don&#39;t seem to believe that they are going to be strong, impactful contributors wherever they go. Somehow they seem to limit their ambitions based on their current levels of knowledge and skill sets.
 
 I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect, I wished I had paid attention to my long term goals more.
 
 ### Caveats ###
 
-1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and/or useful, insightful, and out-of-touch.
-2. This post is aimed at international students mostly but some of this might apply to domestic students as well.
-3. These are my personal opinions and suggestions and should not be taken as official policy or guidance from the department.
+1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and out-of-touch with your circumstances.
+2. This post is mainly aimed at international students but some of this might apply to domestic students as well.
+3. These are my personal opinions and suggestions and should not be taken as official policy or guidance from the department or the university.
 4. This is a not a detailed how-to-guide by any means. It is vague. The intention is to prod you to think.
 5. I am still new to teaching and advising students. My thoughts are based on my limited view over the last two years. Take this with a big pinch of salt. I plan to do a follow up with more inputs from a diverse group of people, including other faculty and grad students.
 
@@ -30,11 +30,11 @@ If there is one thing that I want this post to do, it is to get you, a prospecti
 
 ## Setting up expectations for your Master&#39;s degree ##
 
-A Master&#39;s program in a top university with many wonderful computer scientists and teachers is an incredible opportunity.  Aim big. Set yourselves a high standard for learning excellence. Note this is different from setting a goal of 4.0 GPA.
+A Master&#39;s program in a top department with many wonderful computer scientists and teachers is an incredible opportunity.  Aim big. Set yourselves a high standard for learning excellence. Note this is different from setting a goal of 4.0 GPA.
 
 ### 1. It is not only what you learn now that matters. Learning how to learn matters much more. ###
 
-You will learn many CS concepts, algorithms, techniques, computational ways to solve problems, design aspects etc. But what you learn now will most likely become outdated in a couple of years. CS is vast and every area within it reinvents itself every few years. To succeed, you, of course, will need the basic foundations but more importantly you will need to develop skills, and confidence that will let you learn new things independently. _You should train yourself on how to learn._ I don't know enough about learning theory to suggest any specific learning technique. However, I'd encourage you to set yourself small technical learning goals within the scope of your courses. For example, pick a topic and write a summary of the topic based on what you have learnt. You may have seen many instances of these already. See <a href="http://chetannaik.github.io/">here</a> for an example from Chetan Naik, a recent MS graduate from our department.If going public is an overkill, maintain private notes. I am old fashioned. I do handwritten notes. The main point is for you to becoming confident in your own abilities to technically master a new topic in a relatively short amount of time. This will give you the confidence to take on new challenges and not feel limited by your current knowledge or expertise.
+You will learn many CS concepts, algorithms, techniques, computational ways to solve problems, design aspects etc. But what you learn now will most likely become outdated in a couple of years. CS is vast and every area within it reinvents itself every few years. To succeed, you, of course, will need the basic foundations but more importantly you will need to develop skills, and confidence that will let you learn new material on your own. _You should train yourself on how to learn._ I don't know enough about learning theory to suggest any specific learning technique. However, I'd encourage you to set yourself small technical learning goals within the scope of your courses. For example, pick a topic and write a summary of the topic based on what you have learnt. You may have seen many instances of these already. See <a href="http://chetannaik.github.io/">here</a> for an example from Chetan Naik, a recent MS graduate from our department.If going public is an overkill, maintain private notes. I am old fashioned. I do handwritten notes. The main point is for you to becoming confident in your own abilities to master a new topic in a relatively short amount of time. This will give you the confidence to take on new challenges and not feel limited by your current knowledge or expertise.
 
 ### 2. Forget grades. (Well, not entirely.) Take a broader view of the classes. ###
 
@@ -62,7 +62,7 @@ Once you have a plan run it by some faculty member whose area fits with your int
 
 Whatever the reasons or circumstances, don&#39;t cut corners. Academic dishonesty is unethical and is not a good bargain in any sense. If you see yourself getting into a difficult situation, talk to the instructor, in person, if possible. Often instructors are willing to give penalties and accept late submissions. A few points in one homework, or a drop in one point in a grade means very little in the long run.
 
-Sometimes it may not be clear if a certain type of collaboration is allowed for a particular assignment. Please check with the faculty when in doubt.
+Sometimes it may not be clear if a certain type of collaboration is allowed for a particular assignment. Please check with the faculty when in doubt. _Here is a preachy part:  Look back at your plan. Check in with your big goals. Cheating won't help you get there_. 
 
 ### 7. Enjoy your time here and be an active member in your department. ###
 
