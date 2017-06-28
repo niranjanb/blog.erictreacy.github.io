@@ -20,7 +20,7 @@ I have been through a not so great Master&#39;s experience myself because of sim
 
 ### Caveats ###
 
-1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and out-of-touch with your circumstances.
+1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and out-of-touch with your circumstances. 
 2. This post is mainly aimed at international students but some of this might apply to domestic students as well.
 3. These are my personal opinions and suggestions and should not be taken as official policy or guidance from the department or the university.
 4. This is a not a detailed how-to-guide by any means. It is vague. The intention is to prod you to think.
@@ -48,7 +48,7 @@ I have come to believe that for almost anything of importance having a plan help
 
 ### 4. Go slow. ###
 
-See if you can do four semesters rather than three. One question I hear often from students is &quot;What is the course structure?&quot; which I think only means &quot;How much work is this course?&quot;. This is an important question to ask but this comes about mostly because students want to be out in three semesters. As a result you may end up not having flexibility in the courses you want to take, or have the room to focus on the courses well enough to learn something meaningful.
+See if you can do four semesters rather than three. One question I hear often from students is &quot;What is the course structure?&quot; which I think only means &quot;How much work is this course?&quot;. This is an important question to ask but this comes about mostly because students want to be out in three semesters. The registration requirements for international students (12 credits per semester for the first year) also adds to this problem. As a result you may end up not having flexibility in the courses you want to take, or have the room to focus on the courses well enough to learn something meaningful.
 
 You may not be able afford another extra semester in terms of how you framed your finances for the short term. If you took a long term view, you may be able to see that an extra semester you put in here might actually help you get a better start with an insignificant delay overall.
 
