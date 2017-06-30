@@ -62,9 +62,12 @@ A Master&#39;s degree, especially in three semesters, can be quite tight in term
 
 Whatever stage of life you are in, the Master&#39;s is a reset button. It helps you launch on a path. Prepare yourself for an impactful long career, rather than for the first job you may want to land with a big name company.
 
-### In short, be intentional: Set your own goals for your Master&#39;s program and try your best to meet them. ###
+### In short, be intentional ###
 
-### Caveats ### <a name="caveats"></a>
+Set your own goals for your Master&#39;s program and try your best to meet them.
+
+### Caveats ### 
+<a name="caveats"></a>
 
 1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and out-of-touch with your circumstances. 
 2. This post is mainly aimed at international students but some of this might apply to domestic students as well.
