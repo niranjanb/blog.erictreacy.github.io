@@ -20,7 +20,7 @@ I have been through a not so great Master&#39;s experience myself because of sim
 
 ## Setting up expectations for your Master&#39;s degree ##
 
-A Master&#39;s program in a top department with many wonderful computer scientists and teachers is an incredible opportunity.  Aim big. Set yourselves a high standard for learning excellence. Note this is different from setting a goal of 4.0 GPA.
+A Master&#39;s program in a top department with many wonderful computer scientists and teachers is an incredible opportunity.  Aim big. Set yourselves a high standard for learning excellence. This is not the same as setting a goal of 4.0 GPA.
 
 ### 1. It is not only what you learn now that matters. Learning how to learn matters much more. ###
 
