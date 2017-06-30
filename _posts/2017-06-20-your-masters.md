@@ -16,17 +16,7 @@ I have been teaching in the <a href="https://www.cs.stonybrook.edu/">Computer Sc
 1. Pressure -- Under pressure students seem to cut corners, in some cases even going as far as academic dishonesty. In many cases this happens even though the students seem well motivated, technically strong, and appear genuinely interested in learning and developing themselves.
 2. Long term goals -- Many are not setting themselves up for longer term success. Despite working hard and obtaining technical skills, some don&#39;t seem to believe that they are going to be strong, impactful contributors wherever they go. Somehow they seem to limit their ambitions based on their current levels of knowledge and skill sets.
 
-I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect I wished I had paid attention to my long term goals more.
-
-### Caveats ###
-
-1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and out-of-touch with your circumstances. 
-2. This post is mainly aimed at international students but some of this might apply to domestic students as well.
-3. These are my personal opinions and suggestions and should not be taken as official policy or guidance from the department or the university.
-4. This is a not a detailed how-to-guide by any means. It is vague. The intention is to prod you to think.
-5. I am still new to teaching and advising students. My thoughts are based on my limited view over the last two years. Take this with a big pinch of salt. I plan to do a follow up with more inputs from a diverse group of people, including other faculty and grad students.
-
-If there is one thing that I want this post to do, it is to get you, a prospective/current MS student at Stony Brook, to make a plan for your Master&#39;s overall. Set some goals for what you want to learn from each course that you take. Set good expectations and try your best to meet them.
+I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect I wished I had paid attention to my long term goals more. [Caveats](#caveats) come later.
 
 ## Setting up expectations for your Master&#39;s degree ##
 
@@ -73,3 +63,13 @@ A Master&#39;s degree, especially in three semesters, can be quite tight in term
 Whatever stage of life you are in, the Master&#39;s is a reset button. It helps you launch on a path. Prepare yourself for an impactful long career, rather than for the first job you may want to land with a big name company.
 
 ### In short, be intentional: Set your own goals for your Master&#39;s program and try your best to meet them. ###
+
+### Caveats ### <a name="caveats"></a>
+
+1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and out-of-touch with your circumstances. 
+2. This post is mainly aimed at international students but some of this might apply to domestic students as well.
+3. These are my personal opinions and suggestions and should not be taken as official policy or guidance from the department or the university.
+4. This is a not a detailed how-to-guide by any means. It is vague. The intention is to prod you to think.
+5. I am still new to teaching and advising students. My thoughts are based on my limited view over the last two years. Take this with a big pinch of salt. I plan to do a follow up with more inputs from a diverse group of people, including other faculty and grad students.
+
+If there is one thing that I wanted this post to do, it is to get you, a prospective/current MS student at Stony Brook, to make a plan for your Master&#39;s overall. Set some goals for what you want to learn from each course that you take. Set good expectations and try your best to meet them.
