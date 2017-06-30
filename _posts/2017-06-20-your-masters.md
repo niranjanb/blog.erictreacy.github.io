@@ -51,7 +51,7 @@ Once you have a plan run it by some faculty member whose area fits with your int
 
 ### 6. Cheating is unethical. It is also not a good choice. ###
 
-Whatever the reasons or circumstances, don&#39;t cut corners. Academic dishonesty is unethical and is not a good bargain in any sense. If you see yourself getting into a difficult situation, talk to the instructor, in person, if possible. Often instructors are willing to give penalties and accept late submissions. A few points in one homework, or a drop in one point in a grade means very little in the long run.
+Whatever the reasons or circumstances, don&#39;t cut corners. Academic dishonesty is unethical and is not a good bargain in any sense. If you see yourself getting into a difficult situation, talk to the instructor, in person, if possible. Instructors are often willing to accept late submissions with some penalties. A few points in one homework, or a drop in one point in a grade means very little in the long run.
 
 Sometimes it may not be clear if a certain type of collaboration is allowed for a particular assignment. Please check with the faculty when in doubt. _Some preaching now:  Look back at your plan. Check in with your big goals. Cheating won't help you get there_. 
 
