@@ -47,7 +47,7 @@ Some students are interested in a PhD but are unsure if they can succeed. If you
 
 ### 5. Talk to faculty, and senior MS/PhD students about your plan. ###
 
-Once you have a plan run it by some faculty member whose area fits with your interests. Talk to any faculty member who is willing to talk to you. Find senior Master&#39;s students, PhD students and ask them for inputs. Most people like to give advice and will be happy to share lessons from their experiences. Some even document their experiences with specific tips. Our CS alum, <a href="http://viveksck.github.io/">Vivek Kulkarni</a> shared some useful practical tips on <a href="https://medium.com/@viveksck/acing-your-masters-at-stony-brook-8d4b92cc49fc">MS in Stony Brook</a>).
+Once you have a plan run it by some faculty member whose area fits with your interests. Talk to any faculty member who is willing to talk to you. Find senior Master&#39;s students, PhD students and ask them for inputs. Most people like to give advice and will be happy to share lessons from their experiences. Some even document their experiences with specific tips. For example see <a href="https://medium.com/@viveksck/acing-your-masters-at-stony-brook-8d4b92cc49fc">MS in Stony Brook</a> a collection of useful tiples, from one of our outstanding alums <a href="http://viveksck.github.io/">Vivek Kulkarni</a>. 
 
 ### 6. Cheating is unethical. It is also not a good choice. ###
 
