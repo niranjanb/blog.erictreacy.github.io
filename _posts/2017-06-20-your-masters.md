@@ -39,7 +39,7 @@ I have come to believe that for almost anything of importance having a plan help
 
 ### 4. Go slow. ###
 
-Spend four semesters here rather than three. You may not be able afford the extra semester. Your current financial circumstances and short term outlook may make it painful to take an additional semester. If you took a long term view, an extra semester you invest in now might actually help you get a better start for your career and costs do amortize over time.
+Spend four semesters here rather than three. You may not be able afford the extra semester. Your current financial circumstances and short term outlook may make it painful to take an additional semester. If you took a long term view, an extra semester you invest in now can get you a better start for your career and costs do amortize over time.
 
 With three semesters you don't get the flexibility to choose courses you like and end up having to take too many courses. Even if you are interested in all four courses you take in a semester, it is difficult to spend time on all four. _Not saying this is impossible, just hard._ One question I often hear is &quot;What is the course structure?&quot; which is polite-speak for &quot;How much work is this course?&quot;. This is an important question to ask but this comes about mostly because students want to be out in three semesters. The registration requirements for international students (12 credits per semester for the first year) also adds to this problem. 
 
