@@ -31,7 +31,7 @@ I am not recommending any specific learning strategy or theory here -- I know no
 
 Grades exist. They exist for many reasons, the most ideal of which is to provide an assessment of how well you have learnt the subject material in the courses. Targeting a high GPA at the cost of everything else isn&#39;t good. If your semester GPA is 3.0 then you are doing something bad. If you are at 4.0 then you must be learning _something_. If you are in between there can be a cause for concern only if you aren&#39;t learning or making progress in any of the areas that you care about. You should be doing well in some courses and be average in most. One or two low course grades shouldn&#39;t matter. Give yourselves the room to do badly in one or two courses. Definitely don&#39;t beat yourself up for an A- or a solid B+ in a course or two.
 
-Use your courses to learn new material beyond what was taught in class. Use the course to understand what makes for a good technique, algorithm, system, design, user interface etc. Different areas and courses value different things. Learn algorithmic rigor, system&#39;s performance focus, AI/ML&#39;s problem modeling/formulations, HCI&#39;s user focus etc. Learn what to worry about as a practitioner in the field. Learn the ideas and where they come from. The specific technical content is absolutely important but the opinions of the instructors -- often leading researchers who have worked on the space for a long time -- are also important. Learn the history of the field. Learn the language, and the common abstractions of the field. Learn to view concrete problems with different lenses. Train yourself to use ideas learnt from related fields (e.g., if you learnt a formalism in AI, ask if that can be used for an NLP problem). Use what opportunities you have within the course structure to communicate your ideas in the language of the field. These skills can help distinguish yourself and help you make impactful contributions. 
+Use your courses to learn new material beyond what was taught in class. Understand what makes for a good technique, algorithm, system, design, user interface etc. Different areas value different things. Learn algorithmic rigor, system&#39;s performance focus, AI/ML&#39;s problem modeling/formulations, HCI&#39;s user focus etc. Learn what to worry about as a practitioner in the field. Learn the ideas and where they come from. The specific technical content in the course material is absolutely important but the opinions of the instructors --  leading researchers who have worked on the space for a long time -- are also important. Learn the history of the field. Learn the language, and the common abstractions of the field. Learn to view concrete problems with different lenses. Train yourself to use ideas learnt from related fields (e.g., if you learnt a formalism in AI, ask if that can be used for an NLP problem). Use what opportunities you have within the course structure to communicate your ideas in the language of the field. These skills can help distinguish yourself and help you make impactful contributions. 
 
 ### 3. Make a plan. ###
 
@@ -39,7 +39,7 @@ I have come to believe that for almost anything of importance having a plan help
 
 ### 4. Go slow. ###
 
-See if you can do four semesters rather than three. One question I hear often from students is &quot;What is the course structure?&quot; which I think only means &quot;How much work is this course?&quot;. This is an important question to ask but this comes about mostly because students want to be out in three semesters. The registration requirements for international students (12 credits per semester for the first year) also adds to this problem. As a result you may end up not having flexibility in the courses you want to take, or have the room to focus on the courses well enough to learn something meaningful.
+Spend four semesters here rather than three. One question I often hear is &quot;What is the course structure?&quot; which is polite-speak for &quot;How much work is this course?&quot;. This is an important question to ask but this comes about mostly because students want to be out in three semesters. The registration requirements for international students (12 credits per semester for the first year) also adds to this problem. As a result you may end up not having flexibility in the courses you want to take, or have the room to focus on the courses well enough to learn something meaningful.
 
 You may not be able afford another extra semester. Your current financial circumstances and short term outlook may make it painful to take an additional semester. If you took a long term view, an extra semester you invest in now might actually help you get a better start for your career and costs do amortize over time.
 
@@ -61,11 +61,11 @@ A Master&#39;s degree, especially in three semesters, can be quite tight in term
 
 ### 8. There are many roads to a good career. ###
 
-Whatever stage of life you are in, the Master&#39;s is a reset button. It helps you launch on a path. Prepare yourself for an impactful long career, rather than for the first job you may want to land with a big name company.
+Whatever stage of life you are in, the Master&#39;s is a reset button. It helps you launch on a path. Prepare for an impactful long career, rather than for the first job you may want to land.
 
 ### In short, be intentional ###
 
-Set your own goals for your Master&#39;s program and try your best to meet them.
+Set goals for your Master&#39;s program and try your best to meet them.
 
 #### Caveats #### 
 <a name="caveats"></a>
