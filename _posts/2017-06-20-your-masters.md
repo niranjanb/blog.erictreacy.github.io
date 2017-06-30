@@ -16,7 +16,7 @@ I have been teaching in the <a href="https://www.cs.stonybrook.edu/">Computer Sc
 1. Pressure -- Under pressure students seem to cut corners, in some cases even going as far as academic dishonesty. In many cases this happens even though the students seem well motivated, technically strong, and appear genuinely interested in learning and developing themselves.
 2. Long term goals -- Many are not setting themselves up for longer term success. Despite working hard and obtaining technical skills, some don&#39;t seem to believe that they are going to be strong, impactful contributors wherever they go. Somehow they seem to limit their ambitions based on their current levels of knowledge and skill sets.
 
-I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect I wished I had paid attention to my long term goals more. [Caveats](#caveats) come later.
+I have been through a not so great Master&#39;s experience myself because of similar bad choices. In retrospect I wished I had paid attention to my long term goals more. Some [caveats](#caveats) later.
 
 ## Setting up expectations for your Master&#39;s degree ##
 
@@ -66,7 +66,7 @@ Whatever stage of life you are in, the Master&#39;s is a reset button. It helps 
 
 Set your own goals for your Master&#39;s program and try your best to meet them.
 
-### Caveats ### 
+#### Caveats #### 
 <a name="caveats"></a>
 
 1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and out-of-touch with your circumstances. 
