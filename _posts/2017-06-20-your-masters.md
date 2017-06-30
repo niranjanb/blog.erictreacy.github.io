@@ -59,11 +59,11 @@ Sometimes it may not be clear if a certain type of collaboration is allowed for 
 
 ### 7. Enjoy your time here and be an active member in your department. ###
 
-A Master&#39;s degree, especially in three semesters, can be quite tight in terms of schedule, find ways to mingle with the department at large. Go to talks, research group meetings, social activities, and any activity where you can participate. These are all opportunities to meet people, network, and grow both as a computer scientist as well as a member of the larger CS community. I strongly believe that a large part of my CS attitude and integrity -- what I find useful, interesting, and what I think are my responsibilities -- come from the academic institutions that I was a part of and from the people that I met. Being in company of a diverse group of hardworking, successful people is enriching in many ways. I for one learnt to enjoy more things in life -- wine, cheese, cooking, skiing, and running -- and set higher expectations for myself just as a function of being around some wonderful people.
+A Master&#39;s degree, especially in three semesters, can be quite tight in terms of schedule. Find ways to mingle with the department at large. Go to talks, research group meetings, social activities, and any activity where you can participate. Use all opportunities to meet people, network, and grow both as a computer scientist as well as a member of the larger CS community. I strongly believe that a large part of my CS attitude -- what I find useful, interesting, and what I think my responsibilities are -- come from the academic institutions that I was a part of and from the people that I met. Being in company of a diverse group of hardworking, successful people is enriching in many ways. I, for one, learnt to enjoy many more things in life (wine, cheese, cooking, skiing, and running). I set higher expectations for myself, often inspired by just being around some wonderful people.
 
 ### 8. There are many roads to a good career. ###
 
-Whatever stage of life you are in, the Master&#39;s is a reset button. It helps you launch on a path. Prepare for an impactful long career, rather than for the first job you may want to land.
+Whatever stage of life you are in, the Master&#39;s is a reset button. It helps you launch on a path. Prepare for a long impactful career, rather than for that first job you may want to land.
 
 ### In short, be intentional ###
 
