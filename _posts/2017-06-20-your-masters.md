@@ -27,7 +27,7 @@ A Master&#39;s program in a top department with many wonderful computer scientis
 What you learn now will most likely become outdated in a few years. Most sub-fields within CS change constantly. Some sub-fields (e.g., Machine learning) reinvent themselves every few years. To succeed you will need the basic foundations but more importantly, you will need to develop skills, and confidence that will let you learn new material on your own. _You should train yourself on how to learn._ 
 I am not recommending any specific learning strategy or theory here -- I know nothing about this area. What I am recommending is setting some learning goals and using them as training for independent learning. Here is one suggestion: Set small technical learning goals within the scope of your courses. For example, pick a topic and write a summary of the topic based on what you have learnt. You may have seen many instances of these already. See <a href="http://chetannaik.github.io/">here</a> for an example from Chetan Naik, a recent MS graduate from our department. If going public is an overkill, maintain private notes. I am old fashioned. I do handwritten notes. The main point is to become confident in your own abilities to master a new topic in a relatively short amount of time. This will give the confidence to take on new challenges and not feel limited by your current knowledge or expertise.
 
-### 2. Forget grades. (Well, not entirely.) Take a broader view of the classes. ###
+### 2. Forget grades. (Well, not entirely.) Take a broader view of the classes. ### <a name="forget"></a>
 
 Grades exist. They exist for many reasons, the most ideal of which is to provide an assessment of how well you have learnt the subject material in the courses. Targeting a high GPA at the cost of everything else isn&#39;t good. If your semester GPA is 3.0 then you are doing something bad. If you are at 4.0 then you must be learning _something_. If you are in between there can be a cause for concern only if you aren&#39;t learning or making progress in any of the areas that you care about. You should be doing well in some courses and be average in most. One or two low course grades shouldn&#39;t matter. Give yourselves the room to do badly in one or two courses. Definitely don&#39;t beat yourself up for an A- or a solid B+ in a course or two.
 
@@ -35,17 +35,18 @@ Use your courses to learn new material beyond what was taught in class. Seek out
 
 Train yourself to use ideas learnt from related fields. For instance if you learnt a formalism in AI, ask if that can be used for an NLP problem. Use what opportunities you have within the course structure to communicate your ideas in the language of the field. These skills can help distinguish yourself and help you make impactful contributions. 
 
-### 3. Make a plan. ###
-
-I have come to believe that for almost anything of importance having a plan helps, at least in the placebo sense. Make a plan for what it is that you want to accomplish. Identify skills and learning outcomes you want (look at Forget grades for some ideas) and pick courses that will help you get there. You may want to deepen your foundations, broaden your skills, land a job in the top companies, or prepare for a future PhD. Whatever the objective that led you to choose graduate studies in the first place, take some time to reflect on them. Incorporate what you have learnt since arriving here to adjust your goals.
-
-### 4. Go slow. ###
+### 3. Go slow. ###
 
 Spend four semesters here rather than three. You may not be able afford the extra semester. Your current financial circumstances and short term outlook may make it painful to take an additional semester. If you took a long term view, an extra semester you invest in now can get you a better start for your career and costs do amortize over time.
 
 With three semesters you don't get the flexibility to choose courses you like and end up having to take too many courses. Even if you are interested in all four courses you take in a semester, it is difficult to spend time on all four. _Not saying this is impossible, just hard._ One question I often hear is &quot;What is the course structure?&quot; which is polite-speak for &quot;How much work is this course?&quot;. This is an important question to ask but this comes about mostly because students want to be out in three semesters. The registration requirements for international students (12 credits per semester for the first year) also adds to this problem. 
 
 Some students are interested in a PhD but are unsure if they can succeed. If you are one of these students, definitely consider staying longer. Ask around for research opportunities. Work out a plan for research (could be a Thesis option, or an independent study) and pick topics that you can hedge. That is if you decide later that PhD is not for you, your thesis topic should be such that industries interviewing you should view your work favorably and see value in it.
+
+### 4. Make a plan. ###
+
+Make a plan for what it is that you want to accomplish. I have come to believe that for almost anything of importance having a plan helps, at least in the placebo sense. Take some time to reflect on why you want a Master's degree. Identify some specific goals you want to accomplish. You may want to deepen your foundations, broaden your skills, build expertise in a specific area, or prepare for a future PhD. 
+Incorporate what you have learnt since arriving here to adjust your goals. Pick courses that will help you accomplish your goals. 
 
 ### 5. Talk to faculty, and senior MS/PhD students about your plan. ###
 
