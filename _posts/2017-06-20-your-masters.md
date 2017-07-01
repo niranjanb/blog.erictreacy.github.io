@@ -45,7 +45,7 @@ Some students are interested in a PhD but are unsure if they can succeed. If you
 
 ### 4. Make a plan. ###
 
-Make a plan for what it is that you want to accomplish. I have come to believe that for almost anything of importance having a plan helps, at least in the placebo sense. Take some time to reflect on why you want a Master's degree. Identify some specific goals you want to accomplish. You may want to deepen your foundations, broaden your skills, build expertise in a specific area, or prepare for a future PhD. 
+Make a plan for what it is that you want to accomplish. I have come to believe that for almost anything of importance having a plan helps, at least in the placebo sense. Take some time to reflect on why you want a Master's degree. Identify specific goals: You may want to deepen your foundations, broaden your skills, build expertise in a specific area, or prepare for a future PhD. 
 Incorporate what you have learnt since arriving here to adjust your goals. Pick courses that will help you accomplish your goals. 
 
 ### 5. Talk to faculty, and senior MS/PhD students about your plan. ###
