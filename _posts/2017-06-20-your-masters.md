@@ -22,20 +22,21 @@ I have been through a not so great Master&#39;s experience myself because of sim
 
 A Master&#39;s program in a top department with many wonderful computer scientists and teachers is an incredible opportunity.  Aim big. Set yourselves a high standard for learning excellence. This is not the same as setting a goal of 4.0 GPA.
 
-### 1. Forget grades (but not entirely). Take a broader view of the classes. ### 
+### 1. Forget grades (but not entirely). ###
 
 Grades exist. They exist for many reasons, the most ideal of which is to provide an assessment of how well you have learnt the subject material in the courses. Targeting a high GPA at the cost of everything else isn&#39;t good. If your semester GPA is 3.0 then you are doing something bad. If you are at 4.0 then you must be learning _something_. If you are in between there can be a cause for concern only if you aren&#39;t learning or making progress in any of the areas that you care about. You should be doing well in some courses and be average in most. One or two low course grades shouldn&#39;t matter. Give yourselves the room to do badly in one or two courses. Definitely don&#39;t beat yourself up for an A- or a solid B+ in a course or two.
 
+### 2. Take a broader view of the classes. ### 
 Use your courses to learn new material beyond what was taught in class. Seek out the opinions of the instructors. These are leading researchers who have worked on important problems in the field for a long time. The specific technical content in the course material is absolutely important. But go beyond. Learn what makes for a good technique, algorithm, system, design, user interface etc. Learn algorithmic rigor, system&#39;s performance focus, AI/ML&#39;s problem modeling/formulations, HCI&#39;s user focus etc. Learn what to worry about as a practitioner in the field. Learn the ideas and where they come from. Learn the history of the field, its language, and its abstractions. Learn to view concrete problems with different lenses. 
 
 Train yourself to use ideas learnt from related fields. For instance if you learnt a formalism in AI, ask if that can be used for an NLP problem. Use what opportunities you have within the course structure to communicate your ideas in the language of the field. These skills can help distinguish yourself and help you make impactful contributions. 
 
-### 2. It is not only what you learn now that matters. Learning how to learn matters much more. ###
+### 3. It is not only what you learn now that matters. Learning how to learn matters much more. ###
 
 What you learn now will most likely become outdated in a few years. Most sub-fields within CS change constantly. Some sub-fields (e.g., Machine learning) reinvent themselves every few years. To succeed you will need the basic foundations but more importantly, you will need to develop skills, and confidence to learn new material on your own. _You should train yourself on how to learn._ 
 I am not recommending any specific learning strategy or theory here -- I know nothing about this area. What I am recommending is setting some learning goals and using them as training for independent learning. Here is one suggestion: Set small technical learning goals within the scope of your courses. For example, pick a topic and write a summary of the topic based on what you have learnt. You may have seen many instances of these already. See <a href="http://chetannaik.github.io/">here</a> for an example from Chetan Naik, a recent MS graduate from our department. If going public is an overkill, maintain private notes. I am old fashioned. I do handwritten notes. The main point is to become confident in your own abilities to master a new topic in a relatively short amount of time. This will give the confidence to take on new challenges and not feel limited by your current knowledge or expertise.
 
-### 3. Go slow. ###
+### 4. Go slow. ###
 
 Spend four semesters here rather than three. You may not be able afford the extra semester. Your current financial circumstances and short term outlook may make it painful to take an additional semester. If you took a long term view, an extra semester you invest in now can get you a better start for your career and costs do amortize over time.
 
@@ -48,25 +49,25 @@ Some students are interested in a PhD but are unsure if they can succeed. If you
 Make a plan for what it is that you want to accomplish. I have come to believe that for almost anything of importance having a plan helps, at least in the placebo sense. Take some time to reflect on why you want a Master's degree. Identify specific goals: You may want to deepen your foundations, broaden your skills, build expertise in a specific area, or prepare for a future PhD. 
 Incorporate what you have learnt since arriving here to adjust your goals. Pick courses that will help you accomplish your goals. 
 
-### 5. Talk to faculty, and senior MS/PhD students about your plan. ###
+### 6. Talk to faculty, and senior MS/PhD students about your plan. ###
 
 Once you have a plan run it by some faculty member whose area fits with your interests. Talk to any faculty member who is willing to talk to you. Find senior Master&#39;s students, PhD students and ask them for inputs. Most people like to give advice and will be happy to share lessons from their experiences. Some even document their experiences with specific tips. For example see <a href="https://medium.com/@viveksck/acing-your-masters-at-stony-brook-8d4b92cc49fc">MS in Stony Brook</a> a collection of useful tiples, from one of our outstanding alums <a href="http://viveksck.github.io/">Vivek Kulkarni</a>. 
 
-### 6. Cheating is unethical. It is also not a good choice. ###
+### 7. Cheating is unethical. It is also not a good choice. ###
 
 Whatever the reasons or circumstances, don&#39;t cut corners. Academic dishonesty is unethical and is not a good bargain in any sense. If you see yourself getting into a difficult situation, talk to the instructor, in person, if possible. Instructors are often willing to accept late submissions with some penalties. A few points in one homework, or a drop in one point in a grade means very little in the long run.
 
 Sometimes it may not be clear if a certain type of collaboration is allowed for a particular assignment. Please check with the faculty when in doubt. _Some preaching now:  Look back at your plan. Check in with your big goals. Cheating won't help you get there_. 
 
-### 7. Enjoy your time here and be an active member in your department. ###
+### 8. Enjoy your time here and be an active member in your department. ###
 
 A Master&#39;s degree, especially in three semesters, can be quite tight in terms of schedule. Find ways to mingle with the department at large. Go to talks, research group meetings, social activities, and any activity where you can participate. Use all opportunities to meet people, network, and grow both as a computer scientist as well as a member of the larger CS community. I strongly believe that a large part of my CS attitude -- what I find useful, interesting, and what I think my responsibilities are -- come from the academic institutions that I was a part of and from the people that I met. Being in company of a diverse group of hardworking, successful people is enriching in many ways. I, for one, learnt to enjoy many more things in life (wine, cheese, cooking, skiing, and running). I set higher expectations for myself, often inspired by just being around some wonderful people.
 
-### 8. There are many roads to a good career. ###
+### 9. There are many roads to a good career. ###
 
 Whatever stage of life you are in, the Master&#39;s is a reset button. It helps you launch on a path. Prepare for a long impactful career, rather than for that first job you may want to land.
 
-### In short, be intentional ###
+### 10. In short, be intentional ###
 
 Set goals for your Master&#39;s program and try your best to meet them.
 
