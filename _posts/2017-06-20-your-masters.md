@@ -22,7 +22,7 @@ I have been through a not so great Master&#39;s experience myself because of sim
 
 A Master&#39;s program in a top department with many wonderful computer scientists and teachers is an incredible opportunity.  Aim big. Set yourselves a high standard for learning excellence. This is not the same as setting a goal of 4.0 GPA.
 
-### 1. Forget grades. (Well, not entirely.) Take a broader view of the classes. ### 
+### 1. Forget grades (but not entirely). Take a broader view of the classes. ### 
 
 Grades exist. They exist for many reasons, the most ideal of which is to provide an assessment of how well you have learnt the subject material in the courses. Targeting a high GPA at the cost of everything else isn&#39;t good. If your semester GPA is 3.0 then you are doing something bad. If you are at 4.0 then you must be learning _something_. If you are in between there can be a cause for concern only if you aren&#39;t learning or making progress in any of the areas that you care about. You should be doing well in some courses and be average in most. One or two low course grades shouldn&#39;t matter. Give yourselves the room to do badly in one or two courses. Definitely don&#39;t beat yourself up for an A- or a solid B+ in a course or two.
 
