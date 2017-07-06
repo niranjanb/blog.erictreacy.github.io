@@ -71,7 +71,7 @@ Whatever stage of life you are in, the Master&#39;s is a reset button. It helps 
 
 Set goals for your Master&#39;s program and try your best to meet them.
 
-#### Caveats #### 
+### Caveats ###
 <a name="caveats"></a>
 
 1. It has been a long, long time since I finished my Master&#39;s. Also I always had a research and academia oriented outlook. So this post can read preachy, vague and out-of-touch with your circumstances. 
